@@ -1,84 +1,110 @@
-# E-Commerce Data Analytics Dashboard using Excel
+## E-Commerce Sales Data Analytics Dashboard using Microsoft Excel
 
 ## Project Overview
 
-This project focuses on analyzing e-commerce sales data using Microsoft Excel to generate meaningful business insights and support data-driven decision-making. The dashboard provides a comprehensive view of sales performance, customer behavior, product trends, and profitability metrics through interactive visualizations and reports.
+This project presents an interactive **E-Commerce Sales Analytics Dashboard** developed entirely using **Microsoft Excel**. The objective of the project is to analyze sales performance, customer segments, regional trends, product categories, and profitability to generate actionable business insights.
 
-## Objectives
+The dashboard transforms raw transactional data into meaningful visualizations that support data-driven decision-making.
 
-* Analyze overall sales performance.
+---
+
+## Project Objectives
+
+* Analyze overall sales and profit performance.
 * Identify top-performing products and categories.
-* Evaluate profit and discount impacts.
-* Understand customer purchasing patterns.
-* Track regional sales distribution.
-* Support business decisions through data insights.
+* Study the impact of discounts on profitability.
+* Compare sales performance across different regions.
+* Understand customer segmentation and purchasing behavior.
+* Monitor sales trends over time.
 
-## Tools and Technologies Used
+---
+
+## Tools and Techniques Used
 
 * Microsoft Excel
 * Pivot Tables
 * Pivot Charts
 * Slicers
 * Conditional Formatting
-* Excel Formulas and Functions
-* Data Cleaning and Transformation Techniques
+* Data Cleaning
+* Data Transformation
+* Excel Functions and Formulas
 
-## Features
-
-* Interactive dashboard with slicers and filters.
-* Sales analysis by category, sub-category, and region.
-* Profit and discount analysis.
-* Top and bottom-performing products identification.
-* Year-wise and month-wise sales trends.
-* Customer segment analysis.
-* Dynamic visualizations for better understanding of business performance.
+---
 
 ## Dataset Information
 
-The dataset contains information related to:
+The dataset consists of **9,994 e-commerce transactions** and contains **22 attributes**, including:
 
-* Order Details
+* Order ID
+* Order Date
+* Ship Date
+* Customer Information
+* Segment
+* Country, State, and Region
+* Product Category and Sub-Category
+* Product Name
 * Sales
-* Profit
+* Quantity
 * Discount
-* Product Categories
-* Customer Segments
-* Regions and Locations
-* Order Dates
+* Profit
 
-## Key Insights
+---
 
-* Identified the most profitable product categories.
-* Analyzed the impact of discounts on profitability.
-* Determined sales trends across different periods.
-* Evaluated regional performance and customer behavior.
-* Highlighted opportunities for business improvement.
+## Dashboard Features
 
-## Project Structure
+* KPI cards for business performance monitoring.
+* Time-based sales analysis.
+* Category and sub-category performance analysis.
+* Region-wise sales and profit analysis.
+* Customer segment analysis.
+* Top 10 product analysis.
+* Payment mode analysis.
+* Interactive filters and slicers for dynamic exploration.
+
+---
+
+## Key Business Insights
+
+* Identified high-performing product categories and regions.
+* Evaluated the relationship between discounts and profits.
+* Analyzed customer purchasing patterns across segments.
+* Determined sales trends over different time periods.
+* Highlighted opportunities for improving profitability.
+
+---
+
+## Repository Structure
 
 ```text
-├── Ecommerce_Data_Analytics.xlsx
-├── Dashboard Screenshots
+├── Ecommerce.xlsx
+├── Dashboard Screenshot.png
 └── README.md
 ```
 
+---
+
 ## Learning Outcomes
 
-Through this project, I gained practical experience in:
+Through this project, I gained hands-on experience in:
 
 * Data Cleaning and Preparation
-* Data Analysis using Excel
-* Dashboard Development
+* Exploratory Data Analysis (EDA)
+* Dashboard Design
 * Data Visualization
-* Business Insight Generation
-* Report Creation and Presentation
+* Business Intelligence Reporting
+* Insight Generation using Excel
 
+---
 ## Conclusion
 
-This project demonstrates how Microsoft Excel can be effectively used as a powerful data analytics tool for business intelligence and e-commerce performance analysis.
+This project demonstrates the capability of Microsoft Excel as a powerful tool for performing data analytics and building interactive business dashboards for e-commerce decision-making.
+
+---
 
 ## Author
 
-**Thisha N**
+Thisha N
 
-M.Tech Student | Aspiring Data Scientist | Data Analytics Enthusiast
+M.Tech CSE Student | Aspiring Data Scientist | Data Analytics Enthusiast
+
